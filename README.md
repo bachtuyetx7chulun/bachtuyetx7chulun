@@ -5,15 +5,16 @@
 - 📫 How to reach me ...
 
 #### Arconym
+
 ```JS
-    Express: *E*
-    Nestjs:  *N*
-    Java:    *J*
-    Python:  *P*
-    Reactjs: *R*
-    Vuejs:   *V*
-    Nextjs:  *X*
-    Nuxtjs:  *U*
+    Express:  E
+    Nestjs:   N
+    Java:     J
+    Python:   P
+    Reactjs:  R
+    Vuejs:    V
+    Nextjs:   X
+    Nuxtjs:   U
     
 ```
 
