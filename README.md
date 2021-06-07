@@ -10,6 +10,7 @@
     Express:     E
     Nestjs:      N
     Javascript:  J
+    Typescript:  T
     Python:      P
     Reactjs:     R
     Vuejs:       V
