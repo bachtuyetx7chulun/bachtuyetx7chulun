@@ -13,14 +13,13 @@
 
 <br/>
 
-<br/>
-<br/>
 - 👋 Hi, I’m @bachtuyetx7chulun
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-
+<br/>
+  
 ```JS
     Express:     E
     Nestjs:      N
