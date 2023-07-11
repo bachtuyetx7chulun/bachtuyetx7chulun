@@ -5,9 +5,9 @@
 <br/>
 <br/>
 
-- Name **@bachtuyetx7chulun | @hieutt**
+- Name **@CatFish | @hieutt**
 - Live in **Hanoi, VietNam**
-- Working at [**_Fabbi JSC_**](https://fabbi.com.vn/)
+- Working at [**_AHT Tech_**](https://google.com.vn/)
 - Good with **Javascript** & **NodeJS** & **Nextjs**
 - Understand Vietnamese & English 🎈
 - 👀 I’m interested in ...
